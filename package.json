@@ -31,7 +31,7 @@
     "keyv": "^4.0.1",
     "moment": "^2.26.0",
     "moment-duration-format": "^2.3.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "form-data": "^3.0.0",
     "express-http-proxy": "^1.6.0",
     "bufferutil": "^4.0.1",
